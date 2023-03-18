@@ -5,6 +5,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
+        nasalization: "nasalization",
         sans: ["InterVariable", ...defaultTheme.fontFamily.sans],
       },
       colors: {
